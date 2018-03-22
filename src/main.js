@@ -6,11 +6,11 @@ const filenames = [
   'js/graphql',
   'js/coffeescript',
   'js/typescript',
-  'js/riot',
   'json/cson',
   'html/inline-html',
   'html/jade',
   'html/vue',
+  'html/riot',
   'passthrough'
 ];
 
